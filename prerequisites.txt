@@ -1,0 +1,7 @@
+Prerequisites
+
+- JavaScript
+- DOM
+- BOM
+- JSON
+- AJAX
